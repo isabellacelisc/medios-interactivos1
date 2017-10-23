@@ -4,7 +4,7 @@ var y = 0;
 
 
 function  preload(){
-  img = loadImage ("assets/malla1.jpg");
+  img = loadImage ("malla1.jpg");
 }
 
 function setup() { 
