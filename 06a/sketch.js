@@ -4,8 +4,8 @@ var x = 0;
 var y= 0;
 
 function preload (){
-imagen1 = loadImage ('assets/123.jpeg');
-imagenmask = loadImage ('assets/12.png');
+imagen1 = loadImage ('123.jpeg');
+imagenmask = loadImage ('12.png');
 }
 function setup() { 
   createCanvas(500,500);
