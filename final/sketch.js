@@ -29,7 +29,7 @@ function setup() {
   createCanvas(windowWidth,windowHeight);
  estado = INTRO; 
   
-   planeta = new planetaa();
+  // planeta = new planetaa();
 //   nave1 = new nave2 (); 
 
 } 
@@ -80,7 +80,7 @@ function draw() {
       puntaje = 0;
     }
   }
-  else {
+ // else {
     background(fondo1, 0,0);
     fill(11,227,246);
     textAlign(CENTER);
