@@ -16,12 +16,12 @@ var puntaje = 0;
 
 
 function preload(){
-  fondo1 = loadImage ("assets/fondo1.jpg");
-  fondo2 = loadImage ("assets/fondo2.jpg");
-  pulsar = loadImage ("assets/pulsar.jpg");
-  font = loadFont ("assets/Anders.ttf");
-  planeta = loadImage ("assets/planeta1.jpg");
-  nave1 = loadImage ("assets/nave.jpg");
+  fondo1 = loadImage ("fondo1.jpg");
+  fondo2 = loadImage ("fondo2.jpg");
+  pulsar = loadImage ("pulsar.jpg");
+  font = loadFont ("Anders.ttf");
+  planeta = loadImage ("planeta1.jpg");
+  nave1 = loadImage ("nave.jpg");
 
 
 }
